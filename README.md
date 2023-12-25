@@ -1,4 +1,4 @@
-# 💻 ImitationGameExit8
+# 💻 Imitation-GameExit8
 
 ## Preview
 
