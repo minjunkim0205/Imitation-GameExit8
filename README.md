@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](../Imitation-GameExit8/Preview.png)
+![Preview](Preview.png)
 
 ## Introduction
 
